@@ -51,8 +51,8 @@ export default function Experience() {
           </div>
           {/* 6-grid */}
   <div className="grid-item">
-            <ScrollAnimation animateIn="fadeInRight" className="ExperienceDiv">
-              <div className="Content" id="project3">
+            <ScrollAnimation animateIn="fadeInLeft" className="ExperienceDiv">
+              <div className="Content" id="project2">
                 <h3>PUBLICIS SAPIENT</h3>
                 <h5>SENIOR EXPERIENCE ENGINEER</h5>
                 <p>JUNE 2025 - CURRENT</p>
