@@ -45,11 +45,25 @@ export default function Experience() {
               <div className="Content" id="project3">
                 <h3>PERSISTENT SYSTEMS</h3>
                 <h5>SENIOR SOFTWARE ENGINEER</h5>
-                <p>FEB 2022 - CURRENT</p>
+                <p>FEB 2022 - JUNE 2025</p>
               </div>
             </ScrollAnimation>
           </div>
           {/* 6-grid */}
+  <div className="grid-item">
+            <ScrollAnimation animateIn="fadeInRight" className="ExperienceDiv">
+              <div className="Content" id="project3">
+                <h3>PUBLICIS SAPIENT</h3>
+                <h5>SENIOR EXPERIENCE ENGINEER</h5>
+                <p>JUNE 2025 - CURRENT</p>
+              </div>
+            </ScrollAnimation>
+          </div>
+  {/* 7-grid */}
+<div className="grid-item">
+            <div className="emptyDiv"></div>
+          </div>
+
         </div>
       </div>
       <ScrollAnimation animateIn="fadeIn" className="Mobile-container">
@@ -66,7 +80,12 @@ export default function Experience() {
         <div className="mobileContainerItem Content mx-2">
           <h3>PERSISTENT SYSTEMS</h3>
           <h5>SENIOR SOFTWARE ENGINEER</h5>
-          <p>FEB 2022 - CURRENT</p>
+          <p>FEB 2022 - JUNE 2025</p>
+        </div>
+<div className="mobileContainerItem Content mx-2">
+          <h3>PUBLICIS SAPIENT</h3>
+          <h5>SENIOR EXPERIENCE ENGINEER</h5>
+          <p>JUNE 2025 - CURRENT</p>
         </div>
       </ScrollAnimation>
     </div>
