@@ -24,8 +24,7 @@ export default function Faq() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography className="text-small">
-            Currently I have 3 Internship Experience As Web Developer With
-            Practical Knowledge
+            Currently I have 3.6 years of professional experience 
           </Typography>
         </AccordionDetails>
       </Accordion>
