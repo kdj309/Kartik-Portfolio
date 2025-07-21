@@ -60,6 +60,9 @@ export default function Experience() {
             </ScrollAnimation>
           </div>
   {/* 7-grid */}
+  <div className="grid-item">
+            <div className="middleitem"></div>
+          </div>
 <div className="grid-item">
             <div className="emptyDiv"></div>
           </div>
