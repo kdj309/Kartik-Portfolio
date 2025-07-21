@@ -16,7 +16,7 @@ Responsive Portfolio Website Using Reactjs, With a beautiful user interface. It 
 
 
 ## 🚀 About Me
-I'm a full-stack developer this is portfolio project where I learned all fundamentals of sass through this project
+I'm a full-stack developer this is portfolio project
 
 
 ## 🛠 Skills
